@@ -41,7 +41,7 @@
     <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
   </div>
   
-  <button type="submit" class="btn btn-primary">ENVIAR</button>
+  <button type="submit" class="btn btn-primary">ENVIAR-S</button>
   <a href="#">Olvido su contraseña? </a>
    <a href="#">Volver </a>
 </form>

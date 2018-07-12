@@ -20,7 +20,7 @@
   background : whitesmoke;
 }
         form{
-            /*COMENTARIOS*/
+            /*COMENTARIOS PARA PRBAR VERSION DE BAJADA*/
             position: absolute;
             left : 400px;
             top  : 235px;
